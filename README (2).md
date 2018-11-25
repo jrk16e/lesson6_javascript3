@@ -13,7 +13,8 @@ Web Application Development
 (In this assignment we created a photo gallery with a web application.)
 
 ### View Project:
-( https://jrk16e.github.io/lesson6_javascript3/ )
+https://jrk16e.github.io/lesson6_javascript3/
+
 
 ### Lessons Learned in the Assignment:
 1. (Creating a photo gallery.)
